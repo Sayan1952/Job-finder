@@ -1,0 +1,113 @@
+[
+      {
+        "id": 1,
+        "companyLogo": "Logo/google-1.png",
+        "jobTitle": "Front-end Developer",
+        "companyName": "Google LLC",
+        "remoteOrOnsite": "Remote",
+        "location": "Any",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "jobDescription": "We're looking for an experienced front-end developer to join our team.",
+        "jobResponsibility": "Design and develop user interfaces for web applications.",
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "Minimum 3 years of experience in front-end development.",
+        "contactInformation": {
+          "phone": "555-1234",
+          "email": "jobs@google.com"
+        }
+      },
+      {
+        "id": 2,
+        "companyLogo": "Logo/netflix-4.png",
+        "jobTitle": "Back-end Developer",
+        "companyName": "Netflix Corp.",
+        "remoteOrOnsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$100,000 - $120,000",
+        "jobDescription": "We're looking for a skilled back-end developer to join our team.",
+        "jobResponsibility": "Develop and maintain server-side applications and databases.",
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "Minimum 5 years of experience in back-end development.",
+        "contactInformation": {
+          "phone": "555-5678",
+          "email": "jobs@netflix.com"
+        }
+      },
+      {
+        "id": 3,
+        "companyLogo": "Logo/tesla-91.png",
+        "jobTitle": "Data Scientist",
+        "companyName": "Tesla LLC",
+        "remoteOrOnsite": "Remote",
+        "location": "Any",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$120,000 - $140,000",
+        "jobDescription": "We're looking for a data scientist to help us analyze and interpret complex data sets.",
+        "jobResponsibility": "Develop and apply statistical models to large data sets.",
+        "educationalRequirements": "Master's degree in Mathematics, Statistics, or related field.",
+        "experiences": "Minimum 3 years of experience in data analysis and modeling.",
+        "contactInformation": {
+          "phone": "555-9012",
+          "email": "jobs@tesla.com"
+        }
+      },
+      {
+        "id": 4,
+        "companyLogo": "Logo/airbnb.png",
+        "jobTitle": "Marketing Manager",
+        "companyName": "AirBnB",
+        "remoteOrOnsite": "Onsite",
+        "location": "New York, NY",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$90,000 - $110,000",
+        "jobDescription": "We're seeking a marketing manager to oversee our company's marketing campaigns.",
+        "jobResponsibility": "Develop and execute marketing strategies to promote company products and services.",
+        "educationalRequirements": "Bachelor's degree in Marketing, Communications, or related field.",
+        "experiences": "Minimum 5 years of experience in marketing management.",
+        "contactInformation": {
+            "phone": "555-3456",
+            "email": "jobs@ab.com"
+          }
+        },
+        {
+          "id": 5,
+          "companyLogo": "Logo/google-2.png",
+          "jobTitle": "UI/UX Designer",
+          "companyName": "Google LLC",
+          "remoteOrOnsite": "Onsite",
+          "location": "Boston, MA",
+          "fulltimeOrPartTime": "Full-time",
+          "salary": "$80,000 - $100,000",
+          "jobDescription": "We're seeking a talented UI/UX designer to help us create visually appealing and user-friendly web applications.",
+          "jobResponsibility": "Design and develop user interfaces for web and mobile applications.",
+          "educationalRequirements": "Bachelor's degree in Design, Computer Science, or related field.",
+          "experiences": "Minimum 3 years of experience in UI/UX design.",
+          "contactInformation": {
+            "phone": "555-7890",
+            "email": "jobs@google.com"
+          }
+        },
+        {
+          "id": 6,
+          "companyLogo": "Logo/tesla-91.png",
+          "jobTitle": "Customer Support Specialist",
+          "companyName": "Tesla Crops",
+          "remoteOrOnsite": "Remote",
+          "location": "Any",
+          "fulltimeOrPartTime": "Part-time",
+          "salary": "$20 - $25 per hour",
+          "jobDescription": "We're seeking a customer support specialist to assist our clients with technical issues and inquiries.",
+          "jobResponsibility": "Provide prompt and courteous support to customers via phone, email, and chat.",
+          "educationalRequirements": "High school diploma or equivalent.",
+          "experiences": "Minimum 2 years of experience in customer support or related field.",
+          "contactInformation": {
+            "phone": "555-2345",
+            "email": "jobs@tesla.com"
+          }
+        }
+]
+
+    
+  

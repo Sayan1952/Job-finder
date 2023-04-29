@@ -1,0 +1,26 @@
+[
+    {
+        "logo": "./Icons/accounts1.png",
+        "categoryName": "Account & Finance",
+        "availableJobs": 130,
+        "id":1
+      },
+      {
+        "logo": "./Icons/business1.png",
+        "categoryName": "Creative Design",
+        "availableJobs": 150,
+        "id":2
+      },
+      {
+        "logo": "./Icons/social-media1.png",
+        "categoryName": "Marketing & Sales",
+        "availableJobs": 100,
+        "id":3
+      },
+      {
+        "logo": "./Icons/chip1.png",
+        "categoryName": "Engineering Job",
+        "availableJobs": 120,
+        "id":4
+      }
+]
